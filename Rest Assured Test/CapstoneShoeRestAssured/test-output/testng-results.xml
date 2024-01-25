@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-25T12:28:54 IST" name="Default suite" finished-at="2024-01-25T12:28:55 IST" duration-ms="899">
+    <groups>
+    </groups>
+    <test started-at="2024-01-25T12:28:54 IST" name="Default test" finished-at="2024-01-25T12:28:55 IST" duration-ms="899">
+      <class name="com.simplilearn.capstonerestassured.shoes.Update_Product">
+        <test-method signature="testUpdateProduct()[pri:0, instance:com.simplilearn.capstonerestassured.shoes.Update_Product@6ae5aa72]" started-at="2024-01-25T12:28:54 IST" name="testUpdateProduct" finished-at="2024-01-25T12:28:55 IST" duration-ms="865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateProduct -->
+      </class> <!-- com.simplilearn.capstonerestassured.shoes.Update_Product -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
